@@ -11,6 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/watchdog1307/azure-network-protocols)
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>SOC Projects </b>
+  - .[SOC Home-Lab: Set-up and analysis](https://github.com/watchdog1307/soc-homelab)
 
 <h2>🤳Connect with me:</h2>
 
