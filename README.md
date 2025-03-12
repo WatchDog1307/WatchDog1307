@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin Perales, an <a href="https://linkedin.com/in/kevin-perales-40503b23b/"> cybersecurity student with a passion for threat monitoring,detection and incident response.</a>☺</h1>
+<h1>Hi, I'm Kevin Perales, a <a href="https://linkedin.com/in/kevin-perales-40503b23b/"> cybersecurity student and aspiring SOC analyst.</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
