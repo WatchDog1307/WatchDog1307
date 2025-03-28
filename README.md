@@ -13,6 +13,7 @@
 
 - <b>SOC Projects </b>
   - .[SOC Home-Lab: Set-up and analysis](https://github.com/watchdog1307/soc-homelab)
+  - .[SOC Investigation: Web Attack](https://github.com/watchdog1307/SOC-Web-Attack-Investigation)
 
 <h2>🤳Connect with me:</h2>
 
