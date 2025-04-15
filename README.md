@@ -12,7 +12,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC Projects </b>
-  - .[SOC Home-Lab: Set-up and analysis](https://github.com/watchdog1307/soc-homelab)
+  - .[AD-Threat-Response-Automation-Project](https://github.com/watchdog1307/AD-Threat-Response-Automation-Project)
   - .[SOC Investigation: Web Attack](https://github.com/watchdog1307/SOC-Web-Attack-Investigation)
 
 <h2>🤳Connect with me:</h2>
